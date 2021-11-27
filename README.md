@@ -12,11 +12,6 @@ It can be done just by disabling few services and writing few values into Regist
 
 TinyWinSpyOff does it exactly: it turns off built-in Windows spyware and telemetry for Windows Enterprise LTSC grade installations.
 
-You have to be an Administrator of the the PC with Windows Enterprise LTSC installed.
-TinyWinSpyOff requires Elevation of privileges on start! If you have UAC control set by default,
-Windows will warn you by so called "Unknown Publisher".
-Say YES, but check the sha256 hash of the TinyWinSpyOff executable you have just downloaded.
-
 ## My Windows is NOT Enterprise LTSC. Does TinyWinSpyOff still work?
 
 Yes, but partially. You can turn off built-in Windows spyware and telemetry, but without official guarantee from Microsoft.
@@ -26,6 +21,11 @@ Spyware will be turned off DE FACTO.
 ## TinyWinSpyOff is statically linked standalone native Windows app just 500Kb in size.
 
 Just download, run and restart your Windows. No installation required.
+
+You have to be an Administrator of your Windows PC.
+TinyWinSpyOff requires Elevation of privileges on start! If you have UAC control set by default,
+Windows will warn you by so called "Unknown Publisher".
+Say YES, but check the sha256 hash of the TinyWinSpyOff executable you have just downloaded.
 
 ### 64-bit Windows binary
 

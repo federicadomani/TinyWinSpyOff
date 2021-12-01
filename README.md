@@ -1,5 +1,11 @@
 # TinyWinSpyOff
 
+> Updated Dec 01 2021. Official site added.
+
+## Official Site
+
+[www.open-source.tech/TinyWinSpyOff-Tiny-Blocker-of-Windows-Tracking/](https://www.open-source.tech/TinyWinSpyOff-Tiny-Blocker-of-Windows-Tracking/)
+
 ## Tiny blocker of Windows tracking and telemetry written in plain C++/Win32 API. Just run once as admin and forget. No questions asked. No harmful actions performed like other Windows spying blockers try.
 
 There are many proprietary as well as open source so called "blockers" of built-in Windows spyware on the market.
@@ -38,7 +44,3 @@ Official Download here: [TinyWinSpyOff.exe](https://filedn.com/llBp1EbMQML0Hdv9A
 SHA256(TinyWinSpyOff.exe)= f65f9a235d39acbcfef841de50768cb54510144ca8d3103c27ab20226bd2bd3c
 
 Official Download here: [TinyWinSpyOff.exe](https://filedn.com/llBp1EbMQML0Hdv9A9SVo6b/32bit/TinyWinSpyOff.exe).
-
-## Official Site
-
-[www.open-source.tech/TinyWinSpyOff-Tiny-Blocker-of-Windows-Tracking/](https://www.open-source.tech/TinyWinSpyOff-Tiny-Blocker-of-Windows-Tracking/)

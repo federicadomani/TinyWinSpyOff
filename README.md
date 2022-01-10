@@ -1,6 +1,6 @@
 # TinyWinSpyOff
 
-> Updated Dec 01 2021. Official site added.
+> Updated Jan 10 2022. Official site updated.
 
 ## Official Site
 

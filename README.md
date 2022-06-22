@@ -1,6 +1,6 @@
 # TinyWinSpyOff
 
-> Updated Jan 10 2022. Official site updated.
+> Updated Jun 22 2022. GitHub stars updated; app release date fixed.
 
 ## Official Site
 
